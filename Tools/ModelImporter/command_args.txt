@@ -1,0 +1,14 @@
+-scale 0.01 -animOnly 0 ../../Assets/Models/Jolleen/Ch34_nonPBR.fbx ../../Assets/Models/Jolleen/Ch34_nonPBR.model
+
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_idle_01.fbx ../../Assets/Models/Jolleen/standing_idle_01.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_run_back.fbx ../../Assets/Models/Jolleen/standing_run_back.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_run_forward.fbx ../../Assets/Models/Jolleen/standing_run_forward.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_run_forward_stop.fbx ../../Assets/Models/Jolleen/standing_run_forward_stop.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_run_left.fbx ../../Assets/Models/Jolleen/standing_run_left.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_run_right.fbx ../../Assets/Models/Jolleen/standing_run_right.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_turn_90_left.fbx ../../Assets/Models/Jolleen/standing_turn_90_left.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_turn_90_right.fbx ../../Assets/Models/Jolleen/standing_turn_90_right.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_walk_back.fbx ../../Assets/Models/Jolleen/standing_walk_back.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_walk_forward.fbx ../../Assets/Models/Jolleen/standing_walk_forward.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_walk_left.fbx ../../Assets/Models/Jolleen/standing_walk_left.model
+-scale 0.01 -animOnly 1 ../../Assets/Models/Jolleen/standing_walk_right.fbx ../../Assets/Models/Jolleen/standing_walk_right.model

@@ -1,0 +1,13 @@
+{
+    "Components": {
+        "TransformComponent": {
+            "Position": [ 0.0, 1.0, 0.0 ]
+        },
+        "ModelComponent": {
+            "FileName": "../../Assets/Models/Jolleen/Ch34_nonPBR.model",
+            "Animations": [
+                "../../Assets/Models/Jolleen/standing_run_forward.model"
+            ]
+        }
+    }
+}
